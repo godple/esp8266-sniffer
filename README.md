@@ -1,3 +1,6 @@
+# ESP8266을 사용하여 주변의 스마트폰(또는 Wifi Client)의 MAC Address를 수집하는 소스.
+- 실내 트랙킹을 위한 용도로 wifi, BLE를 사용하는데 아마도 이러한 방식일거라 추측
+
 # ESP8266 WifiSniffer
 
 This is only an easy experiment which uses the ESP8266 wifi module to look for near smartphones around you. You can do this very easily with any computer and some software but this is a good way to learn the possibilities of these tiny ESP8266 modules.
